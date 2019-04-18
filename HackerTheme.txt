@@ -1,1 +1,1 @@
-javascript:(function(){var b=document.getElementsByTagName('*');for(var i=0;i<b.length;i++){b[i].style.backgroundColor='#000000';b[i].style.color='#60ff20'}})()
+javascript:(function(){var b=document.getElementsByTagName('*');for(var i=0;i<b.length;i++){b[i].style.backgroundColor='#333355';b[i].style.color='#608820'};var m=document.getElementsByTagName('img');for(var i=0;i<m.length;i++){m[i].parentNode.removeChild(m[i])};var a=document.getElementsByTagName('a');for(var i=0;i<a.length;i++){a[i].className=''}})()
